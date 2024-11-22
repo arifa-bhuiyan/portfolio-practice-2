@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+.banner{
+    background-image: url('./assets/images/banner/banner3.png');
+    padding: 216px 150px;
+    height: 100vh;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: right;
+
+}
+
+.banner h2{
+    font-size: 50px;
+}
+.banner-inner{
+    width: 400px;
+    margin-left: auto;
+}
+.banner button{
+    padding: 13px 22px;
+    color: #005FAC;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    margin-top: 32px;
+}
+.banner p{
+    margin-top: 24px;
+}
+.my-failures{
+    display: flex;
+    align-items: center;
+    gap: 87px;
+    justify-content: center;
+}
+.my-failures img{
+    width: 500px;
+}
+.previous{
+    width: 300px;
+    font-size: 14px;
+}
+.previous h2{
+    margin-bottom: 24px;
+    font-size: 35px;
+}
+.previous p{
+    margin-bottom: 16px;
+}
+.social-links a img{
+    
+}
+.previous ul>li{
+    margin: 8px;
+}
+.plans{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 80px;
+    text-align: center;
+}
+.section-title{
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 137px;
+}
+.contact-section{
+    margin-top: 130px;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
+.contact-section-inner{
+    background-image: url('./assets/images/watch.png');
+    background-repeat: no-repeat;
+    padding: 30px 62px;
+    margin-top: 120px;
+    width: 787px;
+    margin: 0 auto;
+    background-size: cover;
+}
+.single-plane p{
+   color: #737272;
+}
+.contact-section-inner h2{
+  font-size: 35px;
+  width: 459px;
+  color: #FFFFFF;
+}
+.contact-section-inner button{
+    width: 117px;
+    height: 52px;
+    border-radius: 8px;
+    margin-top: 24px;
+    border: none;
+    font-weight: bold;
+    color: #005FAC;
+}
+.footer-inner{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-info{
+    width: 404px;
+    font-size: 14px;
+}
+.social-links {
+    
+}
+footer{
+    padding: 130px 230px;
+    background-color: black;
+    color: #FFFFFF;
+    margin-top: 130px;
+}
+.footer-inner .footer-info p{
+    margin-bottom: 32px;
+}
+.footer-inner .footer-info h2{
+    margin-bottom: 16px;
+}
+.Subscribe-container input{
+    margin-bottom: 30px;
+    padding: 11px 7px;
+    background-color: black;
+    border-radius: 8px;
+    border: 1px solid #FFFFFF;
+    margin-top: 25px;
+}
+.Subscribe-container button{
+    padding: 15px 26px;
+    border-radius: 8px;
+    font-weight: bold;
+    background-color: #005FAC;
+    border: none;
+    color: #FFFFFF;
+    margin-top: -11px;
+}
+footer .footer-inner .social-links a img{
+    width: 32px;
+    margin-right: 10px;
+}
+
